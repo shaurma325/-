@@ -1,0 +1,65 @@
+<html>
+    <title>фугас кека-мёта</title>
+    <body style="background-color:#f8a0a0;font-family:sans-serif">
+        <h2>фугасный снаряд танка:<a href="https://wiki.warthunder.ru/15cm%20sIG%2033%20B%20Sfl?from=steamOverlayReturn"><i>15 cm sIG 33 B Selbsfahrlafette</i></a> </h2>
+        <p> он пробивает избыточным давлением <i><b>целые:400мм</b></i> комбинированной брони из-за 14 килограмм тротила</p>
+        <center>
+        <img src="https://media.discordapp.net/attachments/1062959347694571590/1062959410462334986/4D73EFC0-CA10-4472-965E-2E815E8AB7BE.gif" style="text-align:center"height="150"/>
+        </center>
+        <p>примеры осколочно-фугасных снарядов:</p>
+        <center>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%D0%93%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D1%8B.jpg/450px-%D0%93%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D1%8B.jpg"/>
+        <table style="border:1px solid indigo;background-color:#808080;border-collapse:collapse">
+        <tr style="border:1px solid indigo;background-color:#8698ff">
+            <td> </td>
+            <td> 0° </td>
+            <td></td>
+            <td> 30° </td>
+            <td> 60° </td>
+        </tr>
+        <tr style="background-color:#9f0000">
+            <td>10м</td>
+            <td>61мм</td>
+            <td></td>
+            <td>61мм</td>
+            <td style="background-color:#d24a00">61мм</td>
+        </tr>
+        <tr style="background-color:#d24a00">
+            <td>100м</td>
+            <td>61мм</td>
+            <td></td>
+            <td>61мм</td>
+            <td>61мм</td>
+        </tr>
+        <tr style="background-color:#d2ae00">
+            <td>500м</td>
+            <td>61мм</td>
+            <td></td>
+            <td>61мм</td>
+            <td>61мм</td>
+        </tr>
+        <tr style="background-color:#a4d200">
+            <td>1000м</td>
+            <td>61мм</td>
+            <td></td>
+            <td>61мм</td>
+            <td>61мм</td>
+        </tr>
+        <tr style="background-color:#3bd200">
+            <td>1500м</td>
+            <td>61мм</td>
+            <td></td>
+            <td>61мм</td>
+            <td>61мм</td>
+        </tr>
+        <tr style="background-color:#95ff86">
+            <td>2000м</td>
+            <td>61мм</td>
+            <td></td>
+            <td>61мм</td>
+            <td>61мм</td>
+        </tr>
+    </table>
+        </center>
+    </body>
+</html>
